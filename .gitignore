@@ -6,3 +6,4 @@ CACHE
 .cache-*
 testScript.py
 testCACHE
+.ipynb_checkpoints/spotifyConstants-checkpoint.py
